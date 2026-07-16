@@ -60,7 +60,7 @@ files in one window.
 Any other Crusoe-hosted model works too, via `--model`:
 
 ```bash
-deep-repo-agent . --model nvidia/Nemotron-3-Super-120B-A12B
+deep-repo-agent . --model nvidia/NVIDIA-Nemotron-3-Super-120B-A12B
 ```
 
 The full catalog is in the
