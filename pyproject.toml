@@ -9,7 +9,7 @@ description = "Chat with any GitHub repository — a long-context codebase agent
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.10"
-authors = [{ name = "Emmanuel Acheampong" }]
+authors = [{ name = "Crusoe AI", email = "devcommunity@crusoe.ai" }]
 keywords = ["agent", "langchain", "crusoe", "codebase", "repository", "llm"]
 dependencies = [
     "langchain-crusoe>=0.1.1",
